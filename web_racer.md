@@ -2,6 +2,7 @@
 ## Challenge Info
 
 DOWNLOAD LINK: http://chal.ctf-league.osusec.org/websocketracer_server.js
+
 ACCESS: http://chal.ctf-league.osusec.org/websocketracer.html
 
 - Looking at the Javascript source code, your "car" must reach a position of at least 1000 while also clicking the "lock" button, then you will see the flag.
